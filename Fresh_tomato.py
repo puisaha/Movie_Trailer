@@ -2,6 +2,7 @@ import webbrowser
 import os
 import re
 
+#File copied from https://github.com/udacity/ud036_StarterCode
 
 # Styles and scripting for the page
 main_page_head = '''
